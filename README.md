@@ -8,8 +8,7 @@
 
 ## 📍 Current Address:
 
-- This is where I currently live: 
-  - 9 Kensington Street Chippendale NSW 2008, Sydney
+- 9 Kensington Street Chippendale NSW 2008, Sydney
 
 ```geojson
 {
