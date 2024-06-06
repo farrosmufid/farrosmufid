@@ -8,7 +8,7 @@
 
 ## 📍 Current Address:
 
-- 9 Kensington Street Chippendale NSW 2008, Sydney
+- 9 Kensington Street, Chippendale NSW 2008, Sydney.
 
 ```geojson
 {
@@ -38,13 +38,13 @@
 
 
 # 📚 🖥️ Tech Stack:
-- **Languages:** Python 3, JavaScript
-- **Frameworks:** React Native, Node.js
-- **Databases:** MySQL, MongoDB, Neo4j
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Data Visualization:** Tableau, Plotly, Matplotlib, Seaborn
-- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch
-- **Skills:** Hypothesis Testing, A/B Testing, Natural Language Processing (NLP)
+- **Languages:** Python 3, JavaScript.
+- **Frameworks:** React Native, Node.js.
+- **Databases:** MySQL, MongoDB, Neo4j.
+- **Data Analysis:** Pandas, NumPy, SciPy.
+- **Data Visualization:** Tableau, Plotly, Matplotlib, Seaborn.
+- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch.
+- **Skills:** Hypothesis Testing, A/B Testing, Natural Language Processing (NLP).
 
   
 # 📈 GitHub Stats:
