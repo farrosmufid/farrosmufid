@@ -38,7 +38,7 @@
 
 
 # 📚 🖥️ Tech Stack:
-- **Languages:** Python 3, JavaScript.
+- **Languages:** Python 3, HTML, CSS, JavaScript, Java.
 - **Frameworks:** React Native, Node.js.
 - **Databases:** MySQL, MongoDB, Neo4j.
 - **Data Analysis:** Pandas, NumPy, SciPy.
