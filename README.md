@@ -35,7 +35,9 @@
 
 ## 🌍 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farros-mufid) 
-
+<a href="https://leetcode.com/farrosmufid/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="LeetCode" style="width: 10%; height: 10%;">
+</a>
 
 # 📚 🖥️ Tech Stack:
 - **Languages** 🗣️: Python 3, HTML, CSS, JavaScript, Java.
