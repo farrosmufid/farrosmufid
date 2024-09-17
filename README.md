@@ -2,6 +2,7 @@
 
 - I recently graduated with a Master of Information Technology (Data Management and Analytics) from the University of Sydney (18th March 2024). Check out my [Testamur](https://www.myequals.net/r/sharelink/35130fe3-d2e5-4800-9987-a294ce497203/c71d7590-31da-41f7-a8f3-099e79de990d).
 - Currently, I am diving into Data Visualization, Data Science, and Front-end Web Development.
+- Check out my [Tableau Vizzes](https://public.tableau.com/app/profile/farros.mufid/vizzes).
 - I am working on building my [portfolio](https://farrosmufid.netlify.app/).
 - Feel free to reach out to me at farrosmufid.ofid@gmail.com.
 
