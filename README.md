@@ -6,30 +6,6 @@
 - I am working on building my [portfolio](https://farrosmufid.netlify.app/).
 - Feel free to reach out to me at farrosmufid.ofid@gmail.com.
 
-## 📍 Current Address:
-
-- 9 Kensington Street, Chippendale NSW 2008, Sydney.
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "bbox": [151.19662045493137, -33.88980555362209, 151.20662045493137, -33.87980555362209],
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [151.20162045493137, -33.88480555362209]
-      },
-      "properties": {
-        "name": "Chippendale NSW 2008, Sydney"
-      }
-    }
-  ]
-}
-
-
-```
 ## 🌍 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farros-mufid) 
 <a href="https://leetcode.com/farrosmufid/" target="_blank">
